@@ -1,0 +1,4 @@
+1. ~ git init to initialise your local repo
+2. Index is an intermediate layer between remote repo and local repo
+3. ~git status --> to see what all files are added in the index
+4. git add filename --> adds file to index so that you can add commit changes
