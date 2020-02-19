@@ -1,0 +1,8 @@
+1. branch is just like a different version of the cloned repo
+1.5 ~git checkout brnach_name // to switch to branch_name from current branch
+
+2. ~git branch branch_name // to make a new branch
+3. new branch will have all the files in the master branch
+4. can make changes in the new branch and then merge it with the master branch
+
+5. merging -combinging with master branch
