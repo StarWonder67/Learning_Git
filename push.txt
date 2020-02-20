@@ -1,0 +1,5 @@
+1. first we need to authenticate ourselves. for that add git ssh key to uou own user account byt the following steps
+
+~git ssh-keygen
+will genrate private and public ssh keys
+copy the key saved in public ssh file and go to your github account->settings->ssh and g
