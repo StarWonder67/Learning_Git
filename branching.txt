@@ -6,3 +6,6 @@
 4. can make changes in the new branch and then merge it with the master branch
 
 5. merging -combinging with master branch
+6. ~ git merge file_to_be_merged (master)
+7. git pull --> getting all new files and changes from remote repo
+8. git rebase master --> the linear attachment of new branch with master branch  

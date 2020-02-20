@@ -1,3 +1,10 @@
 1. copy the link of remote repo from where you will pull in files to your own computer
 2. Open git Bash or git in cmd and type in the command ~ git remote add origin "link"
 
+
+3- need to get access to central repo from where you have cloned to push changes to that repo
+
+3. ~ ssh - keygen -->to generate ssh key of your local comp
+4. ~cat file_name_ssh_key -->display ssh key
+5. add ssh key of your account to central repo
+
